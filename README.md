@@ -2,6 +2,10 @@
 - 👀 I’m interested in Artificial Inteligence and SAAS
 - 🌱 I’m currently learning Computer Science
 ---
+### Stats
+![Etsub's GitHub stats](https://github-readme-stats.vercel.app/api?username=etsubfikreab&show_icons=true&theme=transparent)
+
+---
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -13,11 +17,8 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="linux" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="26px" style=" padding-right:10px;">
 <img align="left" alt="java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="26px" style=" padding-right:10px;">
-<br/>
-<br/>
----
-#Stats
-![Etsub's GitHub stats](https://github-readme-stats.vercel.app/api?username=etsubfikreab&show_icons=true&theme=transparent)
+
+
 <!---
 EtsubFikreab/EtsubFikreab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
