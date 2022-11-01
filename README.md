@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EtsubFikreab
-- 👀 I’m interested in Artificial Inteligence and SAAS products
+- 👀 I’m interested in Artificial Inteligence and SAAS
 - 🌱 I’m currently learning Computer Science 
 
 <!---
