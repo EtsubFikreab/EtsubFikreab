@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @EtsubFikreab
-- 👀 I’m interested in Artificial Inteligence
+- 👀 I’m interested in Artificial Inteligence and SAAS products
 - 🌱 I’m currently learning Computer Science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 EtsubFikreab/EtsubFikreab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
