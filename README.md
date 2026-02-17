@@ -3,7 +3,7 @@
 - 👀 I’m interested in Artificial Inteligence and SAAS
 ---
 ### Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/EtsubFikreab?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/EtsubFikreab?cardType=level&theme=github-dark&fontFamily=Roboto&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 ### Languages and Tools:
@@ -24,6 +24,6 @@
 <br clear="left"/>
 <br />
 <img align="left" alt="Clean Architecture" src="https://img.shields.io/badge/Clean%20Architecture-008FC7?style=flat-square&logo=clean-architecture&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="Domain Driven Design" src="https://img.shields.io/badge/Domain%20Driven%20Design-DDD-blueviolet?style=flat-square" style="padding-right:10px;" />
 <br clear="left"/>
 <br />
+<img align="left" alt="Domain Driven Design" src="https://img.shields.io/badge/Domain%20Driven%20Design-DDD-blueviolet?style=flat-square" style="padding-right:10px;" />
